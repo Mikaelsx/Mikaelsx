@@ -39,9 +39,4 @@ Sinta-se à vontade para me enviar uma mensagem ou conectar-se comigo! Estou sem
 
 ---
 
-## 💡 Um pouco mais sobre mim:
-Quando não estou programando, gosto de explorar o mundo dos games 🎮, mergulhar em novas músicas 🎧, e, claro, continuar aprendendo! Sou um grande defensor do **aprendizado contínuo** — sempre há algo novo para descobrir e melhorar.
-
----
-
 <!-- Inclua mais detalhes sobre você, projetos ou experiências relevantes -->
