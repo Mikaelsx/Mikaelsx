@@ -8,7 +8,7 @@ Estou sempre explorando novas tecnologias e melhorando minhas habilidades, seja 
 
 ## 🛠️ Minhas habilidades e ferramentas:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -17,8 +17,6 @@ Estou sempre explorando novas tecnologias e melhorando minhas habilidades, seja 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40"/>
 </div>
 
 ---
@@ -29,9 +27,10 @@ Estou sempre explorando novas tecnologias e melhorando minhas habilidades, seja 
 ---
 
 ## 🌱 O que estou aprendendo atualmente:
-Atualmente, estou focando em aprimorar minhas habilidades com **TypeScript** e explorar o universo do **Next.js** para desenvolver aplicações web mais escaláveis, ao mesmo tempo que aperfeiçoo meu olhar para o design com ferramentas como **Figma** e **Adobe Illustrator**.
+Atualmente, estou focado em aprimorar minhas habilidades em **Design de Interfaces** usando **Figma**. Estou explorando técnicas de **UI/UX** para criar interfaces modernas e intuitivas, sempre buscando melhorar a experiência do usuário.
 
 ---
+
 
 ## 📫 Como me encontrar:
 
