@@ -1,4 +1,4 @@
-# Olá, sou o Mikael! 👋
+# Olá, Me chamo Mikael Souza 👋
 
 Seja muito bem-vindo(a) ao meu perfil! Sou um desenvolvedor e designer apaixonado por criar soluções eficientes e inovadoras. A cada linha de código ou escolha de design, meu objetivo é tornar o mundo digital mais intuitivo e acessível. 🌐
 
